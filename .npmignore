@@ -7,7 +7,7 @@
 # .DS_Store
 
 # Ignored files
-*.ts
+# *.ts
 # !*.d.ts
 
 # Custom Directories
